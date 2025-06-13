@@ -7,7 +7,7 @@
 
 An advanced, AI-powered web application built from scratch to analyze and summarize customer reviews for restaurants in Silchar, Assam, revealing their true "vibe."
 
-**[➡️ View the Live Demo Here](https://YOUR_STREAMLIT_APP_URL_HERE)** *(<- Replace with your actual app URL after deploying!)*
+**[➡️ View the Live Demo Here](https://silchar-food-app.streamlit.app/)** 
 
 ---
 

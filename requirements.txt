@@ -1,5 +1,9 @@
-streamlit
-pandas
-numpy
-scikit-learn
+streamlit==1.35.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
 spacy==3.7.2
+# Below are key dependencies for spaCy, pinning them ensures a stable build
+blis==0.7.11
+catalogue==2.0.10
+thinc==8.2.2
